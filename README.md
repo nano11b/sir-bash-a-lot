@@ -4,6 +4,13 @@ Some more bash scripts and miscellaneous stuff.
 ## ncurses_linux-server-control-panel.sh
 Aims to put all the BS into one easy to use menu.
 
+### Prerequisites 
+- Debian/Ubuntu/Mint: ``sudo apt install libncurses5-dev libncursesw5-dev``.
+- RedHat/CentOS/Fedora: ``sudo yum install ncurses-devel``.
+- macOS: Install via Homebrew: ``brew install ncurses``.
+
+
+### Features
 | Section  | Tools                               |
 | -------- | ----------------------------------- |
 | System   | update, uptime, memory, disk        |
@@ -15,7 +22,7 @@ Aims to put all the BS into one easy to use menu.
 | Disk     | quick usage analysis                |
 
 
-**Features**
+**Features (extended)**
 - System Update
 - System Monitor
 - Network Tools
