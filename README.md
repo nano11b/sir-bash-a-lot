@@ -14,6 +14,20 @@ Aims to put all the BS into one easy to use menu.
 | Logs     | browse log files                    |
 | Disk     | quick usage analysis                |
 
+**Proposed Features**
+- System Update
+- System Monitor
+- Network Tools
+- Docker Manager
+- Firewall Status
+- Service Manager
+- Log Viewer
+- Disk Usage Analyzer
+- Reboot Server
+- Shutdown Server
+- Exit
+
+
 **Usage:**
 ```
 chmod +x server-dashboard.sh
