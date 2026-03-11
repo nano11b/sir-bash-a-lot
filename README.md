@@ -17,5 +17,5 @@ Aims to put all the BS into one easy to use menu.
 **Usage:**
 ```
 chmod +x server-dashboard.sh
-./server-dashboard.sh
+./ncurses_linux-server-control-panel.sh
 ```
