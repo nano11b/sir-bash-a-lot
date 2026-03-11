@@ -15,5 +15,5 @@ Aims to put all the BS into one easy to use menu.
 | Disk     | quick usage analysis                |
 
 **Usage:**
-```bash chmod +x server-dashboard.sh
+```chmod +x server-dashboard.sh
 ./server-dashboard.sh```
