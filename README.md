@@ -15,7 +15,7 @@ Aims to put all the BS into one easy to use menu.
 | Disk     | quick usage analysis                |
 
 
-**Proposed Features**
+**Features**
 - System Update
 - System Monitor
 - Network Tools
@@ -27,6 +27,15 @@ Aims to put all the BS into one easy to use menu.
 - Reboot Server
 - Shutdown Server
 - Exit
+
+**To Be Added**
+- live htop dashboard
+- fail2ban viewer
+- docker compose manager
+- wireguard status
+- backup manager
+- log search
+- package installer
 
 
 **Usage:**
